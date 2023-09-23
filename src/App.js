@@ -7,7 +7,7 @@ import Form from './Form';
 class App extends Component {
   state = {
     alunos: [
-      {
+      /*{
         nome: "Saulo",
         turma:"Programação Web",
       },
@@ -22,7 +22,7 @@ class App extends Component {
       {
         nome: "Lino",
         turma:"Engenharia de Software",
-      },
+      },*/
     ]
   }
 
