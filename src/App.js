@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import logo from './logo.svg';
+/*import logo from './logo.svg';*/
 import Table from './Table';
 import Form from './Form';
 
