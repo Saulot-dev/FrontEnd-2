@@ -11,6 +11,9 @@ const TableHeader = () =>{
                     Turma
                 </th>
                 <th>
+                    Horario
+                </th>
+                <th>
                     Apagar
                 </th>
             </tr>
@@ -23,6 +26,7 @@ const TableBody = (props) => {
             <tr key = {index}>
                 <td>{row.nome}</td>
                 <td>{row.turma}</td>
+                <td>{row.horario}</td>
                 <td>
                     <button onClick={() => props.removerAluno(index)}>
                         Apagar
