@@ -1,4 +1,4 @@
-import react, {Component} from 'react'
+import {Component} from 'react'
 
 class Form extends Component {
     initialState = {
