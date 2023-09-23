@@ -8,7 +8,7 @@ const TableHeader = () =>{
                     Nome
                 </th>
                 <th>
-                    Disciplina
+                    Turma
                 </th>
                 <th>
                     Apagar
